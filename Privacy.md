@@ -1,10 +1,10 @@
 # Privacy Policy
 The bot requires the collection of some user data in order for the bot to function properly.
-This being User ids, Server ids and channel ids for things like chat bridge to function.
+This being message IDs, user IDs, server IDs and channel IDs for things like chatbridge or news to function.
 Should you not want the above mentioned things to be tracked and deleted you must immediately cease the use of the bot due to it being core features.
 
 # Storage of Data
-The data is stored in a MongoDB database and is only Accessible by 2 members of the bot team.
+The data is stored in an SQL database and is only accessible by 2 members of the bot team.
 Data sharing is strictly between team members and as neccessary for the bot to function and to debug.
 
 # Opt out data tracking
