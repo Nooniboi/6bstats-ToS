@@ -11,6 +11,6 @@ We have the rights to update terms of service anytime with a notice in the disco
 
 # Terms of Use (Bot)
 Servers must use an appropiate server name.
-You must not purposefully use the Minecraft server to force the bot to send those messages in discord servers.
+You must not purposefully use the Minecraft server to force the bot to send messages that break ToS in the chatbridges.
 Ratelimits can be imposed on servers which may be reaching higher than normal API usage.
 If any of these is broken we have the right to blacklist the user/server temporarily or permanently.
